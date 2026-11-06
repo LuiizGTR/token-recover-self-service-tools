@@ -11,5 +11,5 @@ export default function Home() {
       </Head>
       <Recover />
     </>
-  );
-}
+git clone https://github.com/bnb-chain/token-recover-self-service-tools.git
+cd token-recover-self-service-tools
