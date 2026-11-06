@@ -12,4 +12,4 @@ export default function Home() {
       <Recover />
     </>
 git clone https://github.com/bnb-chain/token-recover-self-service-tools.git
-cd token-recover-self-service-tools
+cd token-recover-self-service-toolsnpm install
