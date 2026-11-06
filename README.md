@@ -274,3 +274,4 @@ To report a security vulnerability, please see our [Security Policy](SECURITY.md
 ## License
 
 This project is licensed under the [Innovation-Enabling Source Code License](LICENSE).
+npm install
